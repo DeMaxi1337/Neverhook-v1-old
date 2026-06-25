@@ -7,9 +7,6 @@
 Internal DLL mod menu for Geometry Dash with QoF features
 
 <p>
-  <a href="https://github.com/DeMaxi1337/Neverhook/releases">
-    <img src="https://img.shields.io/github/v/release/DeMaxi1337/Neverhook?label=Release&color=blue&style=flat" />
-  </a>
   <a href="https://github.com/DeMaxi1337/Neverhook/stargazers">
     <img src="https://img.shields.io/github/stars/DeMaxi1337/Neverhook?label=Stars&color=blue&style=flat" />
   </a>
