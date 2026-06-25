@@ -35,22 +35,13 @@ Internal DLL mod menu for Geometry Dash with QoF features
 
 ## Features
 
-- **Player:** noclip, show hitboxes
-- **Macros:** replay bot, macro editor *(in progress)*
-- **Global:** FPS unlock, TPS bypass, speedhack
-- **Cosmetic:** custom wave trail, RGB icons, hide UI *(in progress)*
-- **Bypass:** unlock all icons, shops, vault codes *(in progress)*
-- **Creator:** no object limit, better level info, free scroll *(in progress)*
-- **Scripts:** Lua scripts support *(in progress)*
-
-## Download
-
-Releases coming soon. 
-
-## The project is under development!
-
-Our mod menu is currently in its infancy; we're working hard to maintain it and add features. We're aware of many issues with the mod menu.
-Expect occasional crashes, UI glitches, or incomplete features. If something breaks, open an issue with details and we’ll take a look. Stable releases will arrive as the project matures.
+- **Player:** noclip, no death effect, no respawn flash
+- **Macros:** nothing
+- **Global:** FPS bypass, speedhack
+- **Cosmetic:** nothing
+- **Bypass:** unlock all icons
+- **Creator:** nothing
+- **Scripts:** nothing
 
 ## Credits
 
