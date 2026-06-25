@@ -2,7 +2,7 @@
 
 <img src="https://github.com/DeMaxi1337/Neverhook/blob/main/neverhook.png?raw=true" width="120" />
 
-# Neverhook
+# Neverhook v1 (Legacy)
 
 Internal DLL mod menu for Geometry Dash with QoF features
 
